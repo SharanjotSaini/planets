@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 Venus is closer to earth. Venus is Another planet. I think VENUS IS CLOSER THAN MARS
+=======
+Ne changes. Venus is Another planet. I think VENUS IS CLOSER THAN MARS
+>>>>>>> c35bf0061e1994bb5c239a777d9625df43d9797b
